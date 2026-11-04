@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pixiv Downloader</string>
+    <string name="nav_download">下载</string>
+    <string name="nav_queue">队列</string>
+    <string name="nav_history">历史</string>
+    <string name="settings">设置</string>
+    <string name="notification_channel_name">Pixiv 原图下载通知</string>
+    <string name="notification_channel_desc">用于在后台显示当前正在下载的插画进度与状态</string>
+</resources>
